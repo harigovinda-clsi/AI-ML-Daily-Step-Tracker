@@ -62,8 +62,8 @@ ngrok account (free tier available)
 
 1. Clone the repository
 ```bash
-git clone https://github.com/harigovinda-clsi/Daily-Step-Tracker.git
-cd Daily-Step-Tracker
+git clone https://github.com/harigovinda-clsi/AI-ML-Daily-Step-Tracker.git
+cd AI-ML-Daily-Step-Tracker
 ```
 
 2. Create and activate a virtual environment (recommended)
@@ -181,4 +181,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Project Maintainer - shreyasmishra001@gmail.com
 
-Project Link: [https://github.com/harigovinda-clsi/Daily-Step-Tracker](https://github.com/harigovinda-clsi/Daily-Step-Tracker)
+Project Link: [https://github.com/harigovinda-clsi/Daily-Step-Tracker](https://github.com/harigovinda-clsi/AI-ML-Daily-Step-Tracker)
